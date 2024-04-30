@@ -1,2 +1,5 @@
 streamlit-folium
 folium
+xarray
+matplotlib
+netcdf4
